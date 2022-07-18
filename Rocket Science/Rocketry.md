@@ -1,0 +1,2 @@
+- Rocket system was started during World War II.
+- We had V-2 rocket architectured by great dictator, Adolf Hitler, and von Braun was the person behind the whole show.
