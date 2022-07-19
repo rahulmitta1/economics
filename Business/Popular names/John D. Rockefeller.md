@@ -1,0 +1,3 @@
+### John D. Rockefeller(https://en.wikipedia.org/wiki/John_D._Rockefeller)
+
+John Davison Rockefeller Sr. (July 8, 1839 – May 23, 1937) was an American business magnate and philanthropist. He has been widely considered the wealthiest American of all time and the richest person in modern history. Rockefeller was born into a large family in upstate New York that moved several times before eventually settling in Cleveland, Ohio. He became an assistant bookkeeper at age 16 and went into several business partnerships beginning at age 20, concentrating his business on oil refining. Rockefeller founded the Standard Oil Company in 1870. He ran it until 1897 and remained its largest shareholder.

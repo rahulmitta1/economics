@@ -1,0 +1,1 @@
+- **shirk**: avoid or neglect (a duty or responsibility).
