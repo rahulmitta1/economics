@@ -27,6 +27,7 @@ Scaler Topics
 - Oct 2014, Ansuman & Abhimanyu left company 
 - Abhimanyu' Father had been diagnosed with Cancer
 - Create InterviewBit
+    - Takes 4 months to build Interview Bit 
     - Have Students but no money
 - Tied up with FB & Amazon to pay money for giving you engineers
     - Them Amazon refused to pay
