@@ -1,0 +1,233 @@
+>> Building a Startup
+
+# What
+    *) Here most Companies make mistake
+    *) What are you going to solve/build.
+        *) Problem Identification
+            *) How do you identify a Problem
+                *) For this problem needs to be existed
+                *) People are always complaining about problems.
+                *) An Entrepreneur has an eye to look at the problem.
+                *) We everyday face problems, but we are being habitual to them.
+                    *) Like before OLA (2010)
+                        *) Paying 100 instead of 500 Before 
+                            *) Calling a Taxi by Phone
+                    *) Students graduating from colleges don't have industry skills.
+                *) There are a lot of problem, that you can solve and people are willing to pay for it.
+                *) Staying into a problem for long can be an idea for Startup
+        *) 
+        *) There are lot of things that are broken down around us.
+# Financial
+    *) If you think it require 10 lac,
+        *) then this amount should be in your bank before you quit your job and start for a build.
+# Startup vs Business
+    *) Kind of Business
+        *) High Margin
+            *) Margin (Net Profit) = Selling Price - Buying Price.
+            *) If you add value in what you are selling, you can have high margin 
+            *) If you are buying in wholesale and selling it in retail
+                *) IT is trading not adding value
+                *) You have profit but can't become a multibillion dollar business.
+                *) like a Opening a Grocery Store
+            *) Don't Raise funding
+            *) Examples     
+                *) Mahindra, Zerdodha, Zoho
+
+        *) High Scale Business 
+            *) Examples
+                *) Google, Amazon, FB, Grofers, Tesla, CRED
+            *) Wouldn't make profit for some time.
+            *) Needs lot of investment
+            *) But it has lot of threshold energy
+            *) But it can become very big.
+            *) Amazon 
+                *) Didn't make money from 1996 to 2015
+                    *) It always lose money 
+        *) Having Positive Data From Beginning
+            *) Google Created Search Engine and Mark Zukerberg created FB 
+                *) And put them free for everyone
+                *) Because if they make it paid
+                    *) Few persons will use it.
+            *) They know that if we don't make money for 5-6 years 
+                *) But we build our product most used Social Platform, Search Engine
+                *) THen we can earn from Ads.
+        *) Start with money you have
+            *) Make something that most people will use 
+            *) Then think about how to make money 
+                *) Only after having lot of users.
+    *) PMF (Product Market Fit)
+    *) ARPU
+        *) It Whatsapp says from now you have to pay 1 dollar for a year 
+            *) Every one will pay for it.
+    *) TAM (Target Aquision Market)
+        *) World Population
+            *) Whatsapp 
+                *) When it started in 2008, its developers think
+        *) Impact Everyone
+        *) Byzu
+            *) MOved from GMT, NGRE to School kids
+    *) LTV (Life Time Value)
+    *) CAC (Customer Acquisition Cost)
+    *) Best Business has High ARPU, High TAMP, High LTV
+        *) Elon Musk Quota
+        *) Tesla 
+            *) 20000 Dollar * 4 cars (a people buys in his life)
+            *) Doesn't spend on marketing
+            *) Most of its sales are by Referrals
+                *) Discount on Referring to buy Tesla.
+    *) LTV / CAC should be very high 
+    *) Steve Jobs
+        *) Instead 
+
+Apple
+- Have an event (Sales show) every year to show their new product.
+- And people buy tickets to attend this show.
+
+# Don't Married to the solution
+    *) Instead married to the problem 
+# Don'ts 
+    *) I will launch after perfecting it.
+        *) You should build and launch as quickly as soon as you can.
+        *) Then keep iterating over improving it.
+    *) Not having Goals
+        *) YYou should have very concrete Goals
+            *) I will do this by this date.
+            *) Users Goals
+            *) Revenue Goals 
+    *) Some one steal my idea , if I tell it to some 
+        *) Actually more you share your idea, more you get feedback
+        *) in starting it has more flaws, sharing it with other will resolve that
+        *) Also you will build a trusting team.
+        *) Difference is in Execution.
+        *) Being protective of your idea, is a mistake.
+    *) Thinking that I shouldn't dilute the company 
+        *) It is better to have a billion dollar company and having 2% of it.
+        *) Worry about what can make your company big.
+# Do's 
+    *) Launch as soon as possible
+        *) Iterate over improving 
+        *) Don't get married to idea
+    *) Think Growth
+    *) Build Lean
+        *) Make more impact with least resources 
+# Be a good man 
+    *) Join a Good Startup
+        *) Look at the Senior peoples in a Startup before joining it. 
+    *) Be a good person
+    *) Have Gratitude
+        *) Thank who had helped you 
+            *) Even in public
+
+
+# How to remove self biasing about your ideas?
+    *) Active listening to people with intent to understand them.
+        *) Make you a better person.
+# Leaving JOb for Startup
+    *) You cannot make s Startup while having a Job.
+    *) But only quit job
+        *) AFter having solid Financial backing
+        *) Family Insurance
+        *) 2 years expense money in your bank 
+    *) Building a Startup and failing will still give you more expericnce that working in a company for 8 years.
+# Takes 4 months to build Interview Bit 
+# Imitation is only thing for Flattery
+# Linkedin vs Twitter
+    *) 
+# Vierle Pieters 
+    *) Famous designer, Twitter
+# Resources
+    *) Hacker News 
+    *) YCombinator
+    *) Sequoya Surge
+        *) Named after Sequoya tree.
+        *) Lot of plants grow under Sequoya tree 
+        *) 1000 years old.
+        *) Investor of 
+            *) Scaler 
+            *) Cisco
+            *) Apple 
+            *) Google
+    *) Light Speeds (Twitter)
+    *) Product Hunt
+# Work Life Balance ( is a myth)
+    *) Time to Read 
+    *) Enough Sleep
+    *) Eating Well
+    *) Work as much as you enjoy doing it.
+        *) 
+# Books
+    *) ZERO TO ONE
+        *) Peter Thiel
+        *) JJourney to find PMF
+        *) If 100 users are happy with your product, it is not necessary 100000 user will also like it.
+    *) Lean Startup
+    *) 22 Immutable Laws of Branding
+    *) 22 Immutable Laws of Marketing 
+# A Startup is like a human being / baby
+    *) Toddler
+    *) Baby
+    *) Teenager
+    *) Men 
+# Jeff Bezoz
+    *) It should always be 1 day in the company 
+    *) A company should always be in baby state.
+    *) Growing up is the path to die.
+    
+# While you are in job 
+    *) Reduce your expenses 
+    *) Save more for bad times.
+    *) Your startup requires your saved money 
+# managing finance in Startup
+    *) You should know where are your all Finances are going.
+    *) What is your Expense
+        *) Money went out in 1 month  
+    *) Income 
+        *) Cashflow in 1 month
+        *) If you Net Profit is in -ve 
+            *) Then you should have 12 times of your loss in your bank.
+    *) Revenue 
+        *) Revenue Should be equal or greateer than your expenses
+        *) If your are taking 100 ruppes for serving a people for 10 months 
+            *) Then your Revenue is 10 ruppes
+                *) And income is 100 ruppes
+            *) So your 1 month expanse should be more than 10 rupees
+# Think of running a Solid Business
+    *) Not a Fancy Startup
+# Startup Requires
+    *) Decades of Hard Work
+        *) It's not a one week thing
+
+# Successful Startup
+    *) Good / Solid Team 
+        *) How to attract good people 
+            *) Good people good people.
+        *) First you have good skills / persona 
+        *) Be very generous 
+        *) Be very giving
+        *) High Trust in Team 
+# How
+    *) How will you build it
+
+
+           
+# Capitalisms
+    *) Kill False Advertising
+    *) If somethings doesn't sustain nature's law then it will die soon.
+
+# Train our brain to 
+# You can't say some product company is spam
+    *) You can say it doesn't worth the price.
+# Give Free Service for Land Breaking
+    *) Ambani landed Fiber Cables all over india for 25 B 
+
+*) If you have to make startup
+    *) Best way is to work for a startup.
+# Managing Time 
+    *) After college, if you are financial secure
+    *) College grades are no use , focus on the subjects that are your 
+    *) Only pass the exam 
+        *) Build skills 
+*) YOur Cofounder gives you more than your investor
+    *) Improve as a person along with skills.
+    *) Make as many Friends as you can, like minded people.
+    *) Being generous to share your company shares.
