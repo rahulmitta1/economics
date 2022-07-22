@@ -1,15 +1,35 @@
 ### What is Indian philosophy? 
 
-Indian Philosophy (Darshana in Sanskrit) deals with various philosophical thoughts of many several traditions those originated in Indian subcontinent, including: Hindu philosophy, Buddhism and Jainism.
-- It took several studies and many years to take place some of the theory in Indian philosophy.
-- Why different philosophical thoughts?
-    - Because there were many schools, there were different people (theoreticians) who have their different views, because, they think in a different way.
-    - Since different systems developed in different period of time all their thinking
-process gets changed.
-
 Indian Philosophical Schools had been formulated chiefly from 1500 BC to a few centuries AD.
 - There is no particular (fixed) year.
 - These dates are based on the idea from the old scripture.
+- So, this is the time period where all the philosophy slowly developed and many people act as a philosopher, they given their opinion and view.
+
+Indian Philosophy (Darshana in Sanskrit) deals with various philosophical thoughts of many several traditions those originated in Indian subcontinent, including: Hindu philosophy, Buddhism and Jainism.
+- It took several studies and many years to take place some of the theory in Indian philosophy.
+- Why different philosophical thoughts on same topics?
+    - Because there were many schools, there were different people (theoreticians) who have their different views, because, they think in a different way.
+    - Since different systems developed in different period of time, all their thinking
+process gets changed.
+
+However, "Unity in diversity" is found amoung all the Indian Philosophical Schools
+- Irrespective of different thoughts/views, 
+    - there is a one commonality among all the systems in Indian philosophy that is unity; 
+    - there is a common essence point that is called understanding the ultimate reality.
+    - they have a unity in understanding.
+
+### Thoughts on/about
+
+- the uniformity of nature, 
+- what is the reality?
+- What is the essence of a reality? 
+- What a human being is? 
+- Who is a human being? 
+- the existence of human being, 
+- the life of a human being or in an animal, 
+- how to protect us from the suffering world,
+- What is the ultimate reality behind us? 
+- How the world comes to the existence?
 
 ### Why we study Indian philosophy? 
 
@@ -17,41 +37,25 @@ Indian Philosophical Schools had been formulated chiefly from 1500 BC to a few c
 
 ### How it is important for us, if we at all will read Indian philosophy?
 
- So, this is the time period where all the philosophy slowly
-developed and many people act as a philosopher, they given their opinion and view.
-But you find there is a one commonality among all the systems in Indian philosophy that is
-unity; whatever people say about the uniformity of nature, about the existence of human
-being, about the life of a human being or in a animal, how to protect as from the suffering
-world, in all these things behind that there is a common essence point that is called
-understanding the ultimate reality.
-What is the ultimate reality behind us? How the world comes to the existence? All these
-together though, they have a different view but, certainly they have a unity in understanding.
-At least, certainly they were unity to address a particular question that is, what is the reality?
+## Indian Philosophical Systems
 
-What is the essence of a reality? What a human being is? Who is a human being? All these
-things will come together. So, all that interested in all systems trying to establish their own
-opinion about all the systems.
-Now, since they are different systems and developed in different times, people involved in
-these systems must have different opinions on an idea or a concept or an event therefore, they
-have a different opinion, different understanding of a particular concept; however, they are
-dealing with a particular concept or a particular notion.
-(Refer Slide Time: 04:00)
+Indian philosophy divided into two categories. 
+1. Heterodox system.
+2. Orthodox system.
 
-Now, coming to the next slide as you can see Indian philosophical system, now, once you can
-understand this diagram I believe you can also understand what are the systems available in
-Indian philosophy and particularly what are the developments happen in the long run of
-Indian philosophy.
-Indian philosophy divided into two categories. In broadly, one is Heterodox system, what it
-means is that those who accept Vedas. Because, as you know that Vedas are the very old
-scriptures and whatever we learn today also there are many things we will find in Veda and
-even Upanishad. Heterodox systems are those who do not accept Veda. They said that, we
-know that there is a existence scripture Veda is exist but we do not accept.
+#### Heterodox system
 
-The reasons are, we will be discussing in the next class or next to next classes when the time
-will come. But now for your one understanding, Heterodox are those do not believe the
-existence of Veda. They said that Veda has a no meaning for us.
-However in the other side if you find that there are orthodox system, those who strongly
-believe that there are existence of Veda and whatever we do it is inherited from the Veda, and
+- Those who don't accept Vedas. 
+- They said that, we know that there is a existence scripture Veda, but we do not accept.
+- Heterodox are those do not believe in the existence of Veda. 
+- They said that Veda has a no meaning for us.
+
+
+
+
+#### Orthodox system, 
+
+- Those who strongly believe that there are existence of Veda and whatever we do it is inherited from the Veda, and
 also people believe on rebirth or re incarnation or believe in their karma theory that means, if
 you do good karma in this life, next life you can born as a human being or something like a
 Rusi or something. So, if you do bad karma, next life you will go for a life of animal or
