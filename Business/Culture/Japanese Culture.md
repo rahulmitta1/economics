@@ -1,0 +1,2 @@
+- Most Japanese are meticulous and dedicated preparers.
+    - If you set clear expectations, they will do everything they can to meet them.

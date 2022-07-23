@@ -1,1 +1,0 @@
-- **sociable**: willing to talk and engage in activities with other people

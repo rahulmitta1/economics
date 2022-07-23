@@ -1,0 +1,6 @@
+- I
+    - **impromptu**: done without being planned, organized, or rehearsed.
+- M
+    - **meticulous**: showing great attention to detail; very careful and precise.
+- S
+    - **sociable**: willing to talk and engage in activities with other people
